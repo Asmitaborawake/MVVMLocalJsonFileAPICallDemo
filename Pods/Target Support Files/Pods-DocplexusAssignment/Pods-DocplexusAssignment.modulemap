@@ -1,0 +1,6 @@
+framework module Pods_DocplexusAssignment {
+  umbrella header "Pods-DocplexusAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
